@@ -16,14 +16,14 @@ This project demonstrates the power of SQL in solving real-world business proble
 - Q2. Which countries have the most invoices?
 - Q3. What are the top 3 values of total invoices?
 - Q4. Which city has the best customers (highest revenue)?
-Insight: This city is suggested as the location for a promotional music festival.
+  - Insight: This city is suggested as the location for a promotional music festival.
 - Q5. Who is the best customer (highest spender)?
 - Q6. Return the email, first name, last name, and genre of all Rock music listeners.
-Sort: Alphabetically by email.
+  - Sort: Alphabetically by email.
 - Q7. Identify the top 10 Rock bands based on total track count.
 - Q8. List all tracks with a duration longer than the average song length, sorted by duration (longest first).
 - Q9. Find the total amount spent by each customer on each artist.
 - Q10. Determine the most popular music genre for each country.
-Criteria: Highest number of purchases (with ties accounted for).
+  - Criteria: Highest number of purchases (with ties accounted for).
 - Q11. Identify the top customer in each country based on total spending.
-Criteria: Include all top spenders in case of ties.
+  - Criteria: Include all top spenders in case of ties.
