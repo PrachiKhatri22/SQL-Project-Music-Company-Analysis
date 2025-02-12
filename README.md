@@ -31,3 +31,11 @@ Tools: PostgreSQL client or any SQL execution platform
   - Criteria: Highest number of purchases (with ties accounted for).
 - Q11. Identify the top customer in each country based on total spending.
   - Criteria: Include all top spenders in case of ties.
+
+#💡 Insights Gained
+- ## Top Customers and Cities:
+  Helps in planning promotions and customer loyalty programs.
+- ## Genre Preferences by Country:
+  Assists in localizing music offerings.
+- ## Artist Popularity:
+- Provides insight for partnerships and inventory optimization.
