@@ -34,7 +34,7 @@ Tools: PostgreSQL client or any SQL execution platform
 
 # 💡 Insights Gained
 - ## Top Customers and Cities:
-  Helps in planning promotions and customer loyalty programs.
+- Helps in planning promotions and customer loyalty programs.
 - ## Genre Preferences by Country:
   Assists in localizing music offerings.
 - ## Artist Popularity:
