@@ -5,6 +5,10 @@ This project involves analyzing a music store's dataset using PostgreSQL to unco
 # 🚀 Project Overview
 This project demonstrates the power of SQL in solving real-world business problems. By querying the music store dataset, we analyze customer and invoice data, genre popularity, and artist contributions to inform business strategies.
 
+# 🛠 Technologies Used
+Database: PostgreSQL
+Tools: PostgreSQL client or any SQL execution platform
+
 ## Key Objectives:
 - Identify the best customers and locations for targeted promotions.
 - Analyze genre popularity and track performance.
